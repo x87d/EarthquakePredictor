@@ -12,6 +12,10 @@ This project predicts the next earthquake interval and magnitude for a given cou
 - **Displays the number of records used and warnings** if prediction is based on limited data
 - Simple command-line interface (CLI)
 
+## Data Source
+This project uses data from the Kaggle dataset:
+[Earthquake Dataset by warcoder](https://www.kaggle.com/datasets/warcoder/earthquake-dataset)
+
 ## Setup
 1. Install dependencies:
    ```bash
